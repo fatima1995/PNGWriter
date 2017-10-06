@@ -6,7 +6,7 @@ int main()
 {
 
 
-	pngwriter* image = new pngwriter(700, 700, 0.05, "414000722.png");
+	pngwriter* image = new pngwriter(700, 700, 0.05, "graphic.png");
 
 
 
